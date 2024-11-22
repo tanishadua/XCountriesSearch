@@ -1,0 +1,17 @@
+.countryCard img {
+    height: 100px;
+    width: 100px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.countryCard {
+    border: 1px solid #d3d3d3 ;
+    margin-left: 10px;
+    height: 180px;
+    width: 200px;
+    border-radius: 10px;
+}
+.countryCard p {
+    text-align: center;
+}
